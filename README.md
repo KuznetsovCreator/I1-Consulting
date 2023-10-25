@@ -7,11 +7,6 @@ i1 Consulting is a team of IT specialists that successfully develops dozens of c
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-
-
-
-![Preview](https://github.com/JumpDigitalStudio/JumpDigitalStudio/blob/master/repo-previews/i1_consulting.png)
-
 ## Used by
 
 This project is used by the following companies:
