@@ -18,4 +18,4 @@ This project is used by the following companies:
 ## Authors
 
 - GitHub [KuznetsovCreator](https://github.com/KuznetsovCreator)
-- Telegram [@jumpdigital](https://t.me/kuznetsovcreator)
+- Telegram [@kuznetsovcreator](https://t.me/kuznetsovcreator)
