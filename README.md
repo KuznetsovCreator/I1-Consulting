@@ -15,13 +15,7 @@ This project is used by the following companies:
 | ----------------- | ------------------------------------------------------------------ |
 | ООО «ИНТЕМ ЛАБ» | 7702445613 |
 
-
-## Documentation
-
-[Privacy policy](https://inthemelab.com/documents/private_policy.pdf)
-
-
 ## Authors
 
-- GitHub [KuznetsovCreator](https://github.com/JumpDigitalStudio)
-- Telegram [@jumpdigital](https://t.me/jumpdigital)
+- GitHub [KuznetsovCreator](https://github.com/KuznetsovCreator)
+- Telegram [@jumpdigital](https://t.me/kuznetsovcreator)
