@@ -17,5 +17,4 @@ This project is used by the following companies:
 
 ## Authors
 
-- GitHub [KuznetsovCreator](https://github.com/KuznetsovCreator)
 - Telegram [@kuznetsovcreator](https://t.me/kuznetsovcreator)
